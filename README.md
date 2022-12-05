@@ -23,25 +23,10 @@ the shell can be accessed with **slice.shell()**
 **CODE**
 **}**
 
-*While:*
-
-**whi BOOLEAN_CONDITION_PHRASED_LIKE_PYTHON{**
-**CODE**
-**}**
-
 *Comments:*
 
 **//COMMENT||**
 
-*Functions:*
-
-**func FUNCTION_NAME(ARGS)[**
-**CODE**
-**]**
-
-*Calling Functions:*
-
-**@FUNCTION_NAME()**
 
 *Import Modules*
 
