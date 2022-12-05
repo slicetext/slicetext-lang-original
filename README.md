@@ -40,7 +40,7 @@ alt keyword:
 
 *Hello, World:*
 
-**printl:"foo";**
+**printl:"Hello, World";**
 
 *Output:*
 
