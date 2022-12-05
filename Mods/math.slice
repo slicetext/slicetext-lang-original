@@ -1,0 +1,5 @@
+var pi=__import__("math").pi;
+var tau=__import__("math").tau;
+var infinity=__import__("math").inf;
+var negativeinfinity=-infinity;
+var nan=__import__("math").nan;

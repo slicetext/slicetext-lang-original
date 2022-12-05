@@ -1,0 +1,4 @@
+var i=1;
+printl:konami;
+//printl:konami;||
+printl:i;
