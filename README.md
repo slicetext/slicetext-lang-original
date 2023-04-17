@@ -1,5 +1,5 @@
 # Slicetext
-## Slicetext is a high-level, interpreted programming language created by Theo Kozak in his free time.
+## Slicetext is a high-level, interpreted programming language created by me in my free time.
 
 **RUNNING**
 
